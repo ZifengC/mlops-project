@@ -1,8 +1,6 @@
 # MLOps Project – Milestone 0
 
-A reproducible Python environment with automated CI validation.
-
-![CI](https://github.com/ZifengC/mlops-project/actions/workflows/ci.yml/badge.svg)
+A reproducible Python environment with automated CI validation.![CI](https://github.com/ZifengC/mlops-project/actions/workflows/ci.yml/badge.svg)
 
 ## Quick Start
 
