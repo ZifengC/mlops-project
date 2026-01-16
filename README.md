@@ -30,12 +30,14 @@ This project applies three key reproducibility practices:
 These practices ensure training and deployment environments remain consistent—critical for reliable ML behavior.
 
 ## Project Structure
+
+```text
 .
-### ├── .github/
-### │   └── workflows/
-### │       └── ci.yml          # CI workflow
-### ├── src/                    # Source code
-### ├── tests/                  # Test files
-### ├── requirements.txt        # Pinned dependencies
-### └── README.md               # This file
+├── .github/
+│   └── workflows/
+│       └── ci.yml          # CI workflow
+├── src/                    # Source code
+├── tests/                  # Test files
+├── requirements.txt        # Pinned dependencies
+└── README.md               # Project documentation
 
