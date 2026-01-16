@@ -31,11 +31,11 @@ These practices ensure training and deployment environments remain consistent—
 
 ## Project Structure
 .
-├── .github/
-│   └── workflows/
-│       └── ci.yml          # CI workflow
-├── src/                    # Source code
-├── tests/                  # Test files
-├── requirements.txt        # Pinned dependencies
-└── README.md               # This file
+### ├── .github/
+### │   └── workflows/
+### │       └── ci.yml          # CI workflow
+### ├── src/                    # Source code
+### ├── tests/                  # Test files
+### ├── requirements.txt        # Pinned dependencies
+### └── README.md               # This file
 
